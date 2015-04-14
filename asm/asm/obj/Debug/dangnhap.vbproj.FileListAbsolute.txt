@@ -1,0 +1,12 @@
+E:\phuong\dientoandammay\asm\asm\asm\bin\Debug\asm.exe.config
+E:\phuong\dientoandammay\asm\asm\asm\bin\Debug\asm.exe
+E:\phuong\dientoandammay\asm\asm\asm\bin\Debug\asm.pdb
+E:\phuong\dientoandammay\asm\asm\asm\bin\Debug\asm.xml
+E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\asm.dangnhap.resources
+E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\asm.Resources.resources
+E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\dangnhap.vbproj.GenerateResource.Cache
+E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\asm.exe
+E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\asm.xml
+E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\asm.pdb
+E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\dangnhap.vbprojResolveAssemblyReference.cache
+E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\asm.FRM_QUANLY.resources

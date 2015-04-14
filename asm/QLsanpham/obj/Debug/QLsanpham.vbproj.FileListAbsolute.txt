@@ -1,0 +1,10 @@
+E:\phuong\dientoandammay\asm\asm\QLsanpham\bin\Debug\QLsanpham.exe.config
+E:\phuong\dientoandammay\asm\asm\QLsanpham\bin\Debug\QLsanpham.exe
+E:\phuong\dientoandammay\asm\asm\QLsanpham\bin\Debug\QLsanpham.pdb
+E:\phuong\dientoandammay\asm\asm\QLsanpham\bin\Debug\QLsanpham.xml
+E:\phuong\dientoandammay\asm\asm\QLsanpham\obj\Debug\QLsanpham.Resources.resources
+E:\phuong\dientoandammay\asm\asm\QLsanpham\obj\Debug\QLsanpham.qlsanpham.resources
+E:\phuong\dientoandammay\asm\asm\QLsanpham\obj\Debug\QLsanpham.vbproj.GenerateResource.Cache
+E:\phuong\dientoandammay\asm\asm\QLsanpham\obj\Debug\QLsanpham.exe
+E:\phuong\dientoandammay\asm\asm\QLsanpham\obj\Debug\QLsanpham.xml
+E:\phuong\dientoandammay\asm\asm\QLsanpham\obj\Debug\QLsanpham.pdb

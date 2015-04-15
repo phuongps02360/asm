@@ -12,3 +12,16 @@ E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\asm.exe
 E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\asm.xml
 E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\asm.pdb
 E:\phuong\dientoandammay\asm\asm\asm\obj\Debug\asm.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\bin\Debug\asm.exe.config
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\obj\Debug\asm.exe
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\obj\Debug\asm.xml
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\obj\Debug\asm.pdb
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\bin\Debug\asm.exe
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\bin\Debug\asm.pdb
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\bin\Debug\asm.xml
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\obj\Debug\asm.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\obj\Debug\asm.dangnhap.resources
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\obj\Debug\asm.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\obj\Debug\asm.frm_qlsp.resources
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\obj\Debug\asm.FRM_QUANLY.resources
+C:\Users\HP\Documents\Visual Studio 2013\asm\asm\asm\obj\Debug\asm.vbproj.GenerateResource.Cache

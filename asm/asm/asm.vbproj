@@ -70,6 +70,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.vb" />
     <Compile Include="dangnhap.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -91,6 +92,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="qlnv.Designer.vb">
+      <DependentUpon>qlnv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="qlnv.vb">
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="qlsp.Designer.vb">
       <DependentUpon>qlsp.vb</DependentUpon>
@@ -114,6 +121,9 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qlnv.resx">
+      <DependentUpon>qlnv.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="qlsp.resx">
       <DependentUpon>qlsp.vb</DependentUpon>

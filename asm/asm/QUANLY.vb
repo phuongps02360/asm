@@ -15,4 +15,8 @@
     Private Sub QuảnTrịToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles QuảnTrịToolStripMenuItem.Click
 
     End Sub
+
+    Private Sub QuảnLíNhânViênToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles QuảnLíNhânViênToolStripMenuItem.Click
+
+    End Sub
 End Class
